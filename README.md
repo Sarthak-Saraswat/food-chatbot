@@ -11,14 +11,13 @@ Our food delivery chatbot project aimed to streamline the process of ordering fo
 Project Description:
 
 
-The chatbot offers two primary functionalities:
+🚀 Features
 
-1.New Order placement 
-
-2.Order Tracking
-
-Users interact with the chatbot through the static food website, where they can initiate conversations and provide order details. The chatbot seamlessly communicates with the backend server to process orders and retrieve order status information, ensuring a smooth and user-friendly experience.
-
+»Order Management: Add/remove items, complete orders
+»Order Tracking: Real-time order status tracking
+»Session Management: Handle multiple user sessions simultaneously
+»Database Integration: Persistent storage with MySQL
+»Webhook Ready: FastAPI endpoints for Dialogflow integration
 
 Architecture Overview:
 
@@ -50,3 +49,4 @@ Conclusion:
 
 
 Our food delivery chatbot project showcased the power of modern technologies in revolutionizing the food delivery industry. By leveraging Dialogueflow, FastAPI, and MySQL, we created a seamless and efficient ordering and tracking system that enhanced the user experience and improved operational efficiency. As we continue to innovate and iterate upon our solution, we remain committed to delivering cutting-edge solutions that drive value for customers and stakeholders alike.
+
